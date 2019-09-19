@@ -1,0 +1,7 @@
+# .gitignore for cowry monorepo
+
+# ignore all of the cowry files: they have their own .gits
+cowry-*
+
+# specific ignores
+next-*
