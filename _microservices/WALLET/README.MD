@@ -1,2 +1,0 @@
-WALLET microservice
-===================
