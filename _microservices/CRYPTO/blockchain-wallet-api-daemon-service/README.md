@@ -1,3 +1,0 @@
-Blockchain Wallet API Daemon
-============================
-
