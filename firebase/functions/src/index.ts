@@ -7,3 +7,4 @@
 //  response.send("Hello from Firebase!");
 // });
 export { basicHTTP } from './http'
+export { api } from './api'
