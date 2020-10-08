@@ -1,3 +1,7 @@
+## FIREBASE CONFIGS
+service-account.json
+
+
 ## Compiled JavaScript files
 **/*.js
 **/*.js.map
